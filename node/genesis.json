@@ -1,12 +1,15 @@
 {
   "config": {
-    "chainId": 6660001,
+    "chainId": 8995,
     "homesteadBlock": 1,
     "eip150Block": 2,
     "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
     "eip155Block": 3,
     "eip158Block": 3,
     "byzantiumBlock": 4,
+    "constantinopleBlock": 5,
+    "petersburgBlock": 6,
+    "IstanbulBlock": 7,
     "clique": {
       "period": 5,
       "epoch": 30000
@@ -25,7 +28,9 @@
     },
     "8cc5a1a0802db41db826c2fcb72423744338dcb0": {
       "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
-    }
+  },"0F0f2DDDcaA65b009E70a90EfaEDad1FBAEE2103": {
+      "balance": "0x200000000000000000000000000000000000000000000000000000000000000"
+  }
   },
   "number": "0x0",
   "gasUsed": "0x0",
